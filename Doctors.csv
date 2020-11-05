@@ -1,0 +1,12 @@
+GIN;NPI;NAME;Language;Specialty;Organization
+1;555111;DR. Who;English;Psychiatric;APHP
+2;555112;DR. Strange;English;Internal;APHN
+3;555113;DR. JIVAGO;French:English:Spanish;Cardiology;APHP
+4;555114;DR. Jekyll;French:Deutch:English;Surgery;APHN
+5;555115;DR. Dolittle;Deutch:English;Pediatrics;APHN
+6;555116;DR. No;French:Deutch:English;Cardiology;APHP
+7;555117;DR. Strangelove;French:English;Pediatrics;APHN
+8;555118;DR. Sleep;English;Psychiatric;APHN
+9;555119;DR. Detroit;Deutch;Neurology;APHP
+10;555120;DR. Death;Spanish:English;Internal;APHN
+11;555121;DR. House;English;Surgery;APHP
